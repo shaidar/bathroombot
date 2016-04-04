@@ -26,9 +26,17 @@ I would recommend getting the [Particle Maker Kit](https://store.particle.io/?ut
 ### Wiring Diagram
 ![BathroomBot](bathroombot.png "BathroomBot")
 
+### Why Slack?
+Simple answer is that we are already using it and it felt it would be easiest for everyone since we all have the app and you'd just need to subscribe to the channel.
+
 ### Slack integration
-Particle Photon is web enabled (you will need to make sure it's confgirued on your network) and can be programmed to post events to 
-I used two slack integrations to get an event (door opened or closed) to post to a specific slack channel. 
+Particle Photon is web enabled (you will need to make sure it's configured on your network) and can be programmed to post events to [Particle's site](https://dashboard.particle.io/). Before messing around with the slack integeration, make sure to have the following completed:
+* Photon is on wireless network
+* Photon's firmware is flashed with provided [code](https://github.com/shaidar/bathroombot/blob/master/bathroombot.ino)
+* Photon is connected based on diagram above and LED is acting as expected (red when switch is closed and green when open)
+* Photon is proerly logging events in dashboard
+
+Once you have all the above in place, you can work on the slack integration. I used [IFTTT](https://slack.com/apps/A028LGAFF-ifttt) which also integrates with [Particle](https://www.particle.io/ifttt).
 
 ### Helpful Links
 * Online store and a lot of interesting projects - [Adafruit](https://www.adafruit.com)
