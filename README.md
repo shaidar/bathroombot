@@ -17,6 +17,8 @@ To solve the problem, I needed the following:
 * [Adafruit NeoPixel NeoMatrix 8x8](https://www.adafruit.com/products/1487) - you can get something different/cheaper, but I saw another project that recommended it and I thought it looked pretty cool and I could get creative with the lights if I wanted to.
 * [Hook-up Wire Spool Set](https://www.adafruit.com/products/1311) - you don't need a full spool set, but given that I was expermenting, I thought this might come in handy for other projects.
 
+I did not list the soldering iron and solder as I was lucky to have a co-worker who has all this and taught me how to solder and test the connections. 
+
 I would recommend getting the [Particle Maker Kit](https://store.particle.io/?utm_source=homesite&utm_medium=Nav&utm_campaign=TopMenu) as it contains a breadboard and some other stuff that you can tinker with.
 
 ### Helpful Links
