@@ -23,5 +23,10 @@ I did not list the soldering iron and solder as I was lucky to have a co-worker 
 
 I would recommend getting the [Particle Maker Kit](https://store.particle.io/?utm_source=homesite&utm_medium=Nav&utm_campaign=TopMenu) as it contains a breadboard and some other stuff that you can tinker with.
 
+### Wiring Diagram
+
+
+
 ### Helpful Links
 * Online store and a lot of interesting projects - [Adafruit](https://www.adafruit.com)
+* App to diagram connections - [Fritzing](http://fritzing.org/home/)
