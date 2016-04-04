@@ -26,6 +26,10 @@ I would recommend getting the [Particle Maker Kit](https://store.particle.io/?ut
 ### Wiring Diagram
 ![BathroomBot](bathroombot.png "BathroomBot")
 
+### Slack integration
+Particle Photon is web enabled (you will need to make sure it's confgirued on your network) and can be programmed to post events to 
+I used two slack integrations to get an event (door opened or closed) to post to a specific slack channel. 
+
 ### Helpful Links
 * Online store and a lot of interesting projects - [Adafruit](https://www.adafruit.com)
 * App to diagram connections - [Fritzing](http://fritzing.org/home/)
