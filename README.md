@@ -38,6 +38,16 @@ Particle Photon is web enabled (you will need to make sure it's configured on yo
 
 Once you have all the above in place, you can work on the slack integration. I used [IFTTT](https://slack.com/apps/A028LGAFF-ifttt) which also integrates with [Particle](https://www.particle.io/ifttt).
 
+### Finished Product
+###### This is what it looks like
+![Mounted Device](IMG_0867.png "Mounted Device")
+
+
+###### Messages in Slack
+![Slack Screenshot](Slack-Screenshot.png "Slack Screenshot")
+
 ### Helpful Links
 * Online store and a lot of interesting projects - [Adafruit](https://www.adafruit.com)
 * App to diagram connections - [Fritzing](http://fritzing.org/home/)
+* [Instructables Bathroom Indicator project](http://www.instructables.com/id/IoT-Bathroom-Vacancy-Indicator-For-Hackers/)
+* [Is toilet free](https://madebymany.com/blog/is-the-toilet-free)
