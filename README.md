@@ -16,6 +16,8 @@ To solve the problem, I needed the following:
 * [Magnetic contact switch](https://www.adafruit.com/products/375)
 * [Adafruit NeoPixel NeoMatrix 8x8](https://www.adafruit.com/products/1487) - you can get something different/cheaper, but I saw another project that recommended it and I thought it looked pretty cool and I could get creative with the lights if I wanted to.
 * [Hook-up Wire Spool Set](https://www.adafruit.com/products/1311) - you don't need a full spool set, but given that I was expermenting, I thought this might come in handy for other projects.
+* [USB Power Adapter](http://www.amazon.com/Omni-Universal-Adapter-Charger-Samsung/dp/B00YHZI0EC/ref=sr_1_1?ie=UTF8&qid=1459776446&sr=8-1&keywords=usb+power+plug) - I had a spare Apple one that I used.
+* Power plug close to where you plan on mounting the device.
 
 I did not list the soldering iron and solder as I was lucky to have a co-worker who has all this and taught me how to solder and test the connections. 
 
